@@ -4,7 +4,7 @@ For this project, imagine the context: we just got some contract work with an Ec
 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. They've hired us on contract to help them figure it out! Let's get started!
 
-Click here to view the notebook: [Linear Regression.ipynb]
+Click here to view the notebook: [Linear Regression.ipynb](https://github.com/Rdailuo/linear_regression/blob/main/Linear%20Regression.ipynb)
 
 ## About the Data: 
 
